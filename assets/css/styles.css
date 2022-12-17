@@ -1,0 +1,24 @@
+html, body {
+    margin: 0px;
+    background-color: rgb(116, 173, 31);
+    color: white;
+}
+
+.header__{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.card {
+    display: inline;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#player1-cards{
+    height: 250px;
+}
