@@ -17,8 +17,9 @@ html, body {
     width: 150px;
     left: 100px;
     margin-left: -75px;
+    
 }
 
-#player1-cards{
+#player-cards{
     height: 250px;
 }
