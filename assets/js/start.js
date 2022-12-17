@@ -66,7 +66,7 @@ const setScore = (player, newScore) => {
 
 const winmessage = () => {
     if(player1.score == player2.score) (alert("Draw!"))
-    player1.score > player2.score ? alert("Player 1 Wins!"): alert("Player2 Wins!");
+    else player1.score > player2.score ? alert("Player 1 Wins!"): alert("Player2 Wins!");
 }
 
 //EVENTS
